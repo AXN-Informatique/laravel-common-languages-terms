@@ -10,4 +10,9 @@ class ServiceProvider extends BaseServiceProvider
     {
         $this->loadTranslationsFrom(__DIR__.'/../terms', 'common');
     }
+
+    public function register()
+    {
+        // ... register is as abstract method of Illuminate\Support\ServiceProvider
+    }
 }
