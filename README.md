@@ -28,7 +28,7 @@ Add the service provider to the array of providers in `config/app.php`:
 Usage
 -----
 
-Vous pouvez acceder à toutes les traductions de cette façon :
+You can access to the translations of this package in this way:
 
 ```php
 trans('common::{file}.{key}')
