@@ -1,0 +1,22 @@
+{
+    "name" : "axn/laravel-common-languages-terms",
+    "description" : "Provides a set of common language terms for Laravel.",
+    "homepage" : "https://github.com/AXN-Informatique/laravel-common-languages-terms",
+    "support" : {
+        "issues" : "https://github.com/AXN-Informatique/laravel-common-languages-terms/issues"
+    },
+    "authors" : [{
+            "name" : "AXN Informatique",
+            "email" : "developpement@axn.fr"
+        }
+    ],
+    "license" : "MIT",
+    "require" : {
+        "laravel/framework" : "^5.1|^5.2|^5.3"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Axn\\LaravelCommonLanguagesTerms\\" : "src/"
+        }
+    }
+}
