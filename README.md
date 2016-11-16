@@ -28,7 +28,15 @@ Add the service provider to the array of providers in `config/app.php`:
 Usage
 -----
 
-Look in the files in the "terms" directory of the package.
+Vous pouvez acceder à toutes les traductions de cette façon :
+
+```php
+trans('common::{file}.{key}')
+```
+
+Where "{file}" is the translation file name and where "{key}" is the key in that file.
+
+Look in the files in the "terms" directory of the package to better understand..
 
 For example, for the delete action:
 
