@@ -47,6 +47,6 @@ trans('common::action.delete')
 Or for the title of a button "back to the list":
 
 ```php
-trans('common::misc.back_to_list')
+trans('common::back.list')
 ```
 
