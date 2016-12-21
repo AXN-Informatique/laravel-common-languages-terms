@@ -6,6 +6,6 @@ return [
     'no' => 'non',
 
     'required' => 'requis',
-    'required_notice' => 'Les champs marqués par :mark sont obligatoires.',
+    'info_required_fields' => 'Les champs marqués par :mark sont obligatoires.',
 
 ];
