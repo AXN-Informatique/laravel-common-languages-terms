@@ -8,6 +8,8 @@ return [
     'enable' => 'Activer',
     'disable' => 'Désactiver',
 
+    'restore' => 'Restaurer',
+
     'delete' => 'Supprimer',
 
 ];
