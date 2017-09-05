@@ -5,6 +5,8 @@ return [
     'yes' => 'oui',
     'no' => 'non',
 
+    'or' => 'ou',
+
     'recycle_bin' => 'Corbeille',
 
     'required' => 'requis',
