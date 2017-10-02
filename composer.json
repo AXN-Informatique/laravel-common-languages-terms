@@ -18,5 +18,12 @@
         "psr-4" : {
             "Axn\\LaravelCommonLanguagesTerms\\" : "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Axn\\LaravelCommonLanguagesTerms\\ServiceProvider"
+            ]
+        }
     }
 }

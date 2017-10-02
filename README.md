@@ -13,7 +13,9 @@ Install through composer:
 composer require axn/laravel-common-languages-terms
 ```
 
-Add the service provider to the array of providers in `config/app.php`:
+In Laravel 5.5 the service provider will automatically get registered.
+In older versions of the framework just add the service provider
+to the array of providers in `config/app.php`:
 
 ```php
 // config/app.php
