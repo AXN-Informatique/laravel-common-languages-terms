@@ -12,4 +12,6 @@ return [
     'required' => 'required',
     'info_required_fields' => 'Fields marked with :mark are mandatory.',
 
+    'page_n' => 'Page :number',
+
 ];
