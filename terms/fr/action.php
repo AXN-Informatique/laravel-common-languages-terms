@@ -4,6 +4,8 @@ return [
 
     'add' => 'Ajouter',
     'edit' => 'Modifier',
+    
+    'save' => 'Enregistrer',
 
     'enable' => 'Activer',
     'disable' => 'Désactiver',
