@@ -4,7 +4,7 @@ return [
 
     'add' => 'Ajouter',
     'edit' => 'Modifier',
-    
+
     'save' => 'Enregistrer',
 
     'enable' => 'Activer',
@@ -13,5 +13,7 @@ return [
     'restore' => 'Restaurer',
 
     'delete' => 'Supprimer',
+
+    'cancel' => 'Annuler',
 
 ];

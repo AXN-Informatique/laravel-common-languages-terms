@@ -4,7 +4,7 @@ return [
 
     'add' => 'Add',
     'edit' => 'Edit',
-    
+
     'save' => 'Save',
 
     'enable' => 'Enable',
@@ -13,5 +13,7 @@ return [
     'restore' => 'Restore',
 
     'delete' => 'Delete',
+
+    'cancel' => 'Cancel',
 
 ];
