@@ -14,4 +14,6 @@ return [
 
     'page_n' => 'Page :number',
 
+    'developed_by' => 'Développé par <a href=":author_url" target="_blank">:author_name</a>',
+
 ];
