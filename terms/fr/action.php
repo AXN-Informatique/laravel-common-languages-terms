@@ -16,6 +16,8 @@ return [
 
     'cancel' => 'Annuler',
 
+    'close' => 'Fermer',
+
     'search' => 'Rechercher',
 
 ];
