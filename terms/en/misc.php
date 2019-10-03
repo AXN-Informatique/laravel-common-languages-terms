@@ -5,6 +5,9 @@ return [
     'yes' => 'yes',
     'no' => 'no',
 
+    'all' => 'all',
+    'all_fem' => 'all',
+
     'or' => 'or',
 
     'recycle_bin' => 'Recycle bin',

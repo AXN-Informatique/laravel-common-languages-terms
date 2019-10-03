@@ -8,4 +8,13 @@ return [
     'inactive' => 'Inactif',
     'inactive_fem' => 'Inactive',
 
+    'active_inactive' => 'Actif et inactif',
+    'active_inactive_fem' => 'Active et inactive',
+
+    'only_actives' => 'Actif uniquement',
+    'only_actives_fem' => 'Active uniquement',
+
+    'only_inactives' => 'Inactif uniquement',
+    'only_inactives_fem' => 'Inactive uniquement',
+
 ];
