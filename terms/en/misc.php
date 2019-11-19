@@ -8,6 +8,12 @@ return [
     'all' => 'all',
     'all_fem' => 'all',
 
+    'previous' => 'Previous',
+    'previous_fem' => 'Previous',
+
+    'next' => 'Next',
+    'next_fem' => 'Next',
+
     'or' => 'or',
 
     'recycle_bin' => 'Recycle bin',
