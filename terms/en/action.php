@@ -10,6 +10,9 @@ return [
     'enable' => 'Enable',
     'disable' => 'Disable',
 
+    'refresh' => 'Refresh',
+    'reload' => 'Reload',
+
     'restore' => 'Restore',
 
     'delete' => 'Delete',
