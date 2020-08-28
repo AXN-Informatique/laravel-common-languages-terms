@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'hello' => 'Bonjour,',
+    'hello' => 'Hello,',
     'warning_notice' => 'Attention&nbsp;!',
-    'cordially' => 'Cordialement',
-    'automatic' => 'Ceci est un message automatique.',
-    'do_not_reply' => 'Merci de ne pas y répondre, votre réponse serait perdue.',
+    'cordially' => 'Cordially,',
+    'automatic' => 'This is an automatic message.',
+    'do_not_reply' => 'Please do not answer it, your answer will be lost.',
 ];
