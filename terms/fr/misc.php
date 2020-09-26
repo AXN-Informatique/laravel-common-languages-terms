@@ -26,4 +26,6 @@ return [
 
     'developed_by' => 'Développé par <a href=":author_url" target="_blank">:author_name</a>',
 
+    'under_maintenance' => 'en maintenance…',
+
 ];
