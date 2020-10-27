@@ -10,6 +10,9 @@ return [
     'enable' => 'Activer',
     'disable' => 'Désactiver',
 
+    'archive' => 'Archiver',
+    'unarchive' => 'Désarchiver',
+
     'refresh' => 'Rafraîchir',
     'reload' => 'Recharger',
 

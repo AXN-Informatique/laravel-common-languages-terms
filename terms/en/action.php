@@ -10,6 +10,9 @@ return [
     'enable' => 'Enable',
     'disable' => 'Disable',
 
+    'archive' => 'Archive',
+    'unarchive' => 'Unarchive',
+
     'refresh' => 'Refresh',
     'reload' => 'Reload',
 
