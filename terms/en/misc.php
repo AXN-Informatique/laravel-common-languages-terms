@@ -19,6 +19,9 @@ return [
     'recycle_bin' => 'Recycle bin',
     'recycle_bin_of' => 'Recycle bin of :things',
 
+    'archives' => 'Archives',
+    'archives_of' => 'Archives of :things',
+
     'required' => 'required',
     'info_required_fields' => 'Fields marked with :mark are mandatory.',
 

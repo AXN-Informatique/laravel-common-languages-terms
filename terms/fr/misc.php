@@ -19,6 +19,9 @@ return [
     'recycle_bin' => 'Corbeille',
     'recycle_bin_of' => 'Corbeille de :things',
 
+    'archives' => 'Archives',
+    'archives_of' => 'Archives de :things',
+
     'required' => 'requis',
     'info_required_fields' => 'Les champs marqués par :mark sont obligatoires.',
 
