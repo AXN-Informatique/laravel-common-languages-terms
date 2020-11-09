@@ -5,6 +5,7 @@ return [
     'add' => 'Add',
     'edit' => 'Edit',
 
+    'show' => 'Show',
     'save' => 'Save',
 
     'enable' => 'Enable',
