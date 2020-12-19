@@ -11,6 +11,9 @@ return [
     '404_title' => '404 error - Document not found',
     '404_message' => 'Sorry but the document you are looking for does not exist.',
 
+    '419_title' => '419 error - Your session has expirede',
+    '419_message' => 'Sorry, please login again.',
+
     '500_title' => '500 error - Internal server error',
     '500_message' => 'The HTTP server encountered an unexpected condition that prevented it from processing the request.',
 
