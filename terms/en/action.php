@@ -27,4 +27,6 @@ return [
 
     'search' => 'Search',
 
+    'browse' => 'Browse',
+
 ];

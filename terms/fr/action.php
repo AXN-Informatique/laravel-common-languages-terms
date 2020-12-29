@@ -27,4 +27,6 @@ return [
 
     'search' => 'Rechercher',
 
+    'browse' => 'Parcourir',
+
 ];
