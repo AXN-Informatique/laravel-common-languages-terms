@@ -29,4 +29,7 @@ return [
 
     'browse' => 'Parcourir',
 
+    'up' => 'Monter',
+    'down' => 'Descendre',
+
 ];

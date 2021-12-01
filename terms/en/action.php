@@ -29,4 +29,6 @@ return [
 
     'browse' => 'Browse',
 
+    'up' => 'Up',
+    'down' => 'Down',
 ];
