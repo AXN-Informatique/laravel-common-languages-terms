@@ -15,6 +15,9 @@ return [
     'next_fem' => 'Suivante',
 
     'or' => 'ou',
+    'other' => 'autre',
+    'with' => 'avec',
+    'without' => 'sans',
 
     'recycle_bin' => 'Corbeille',
     'recycle_bin_of' => 'Corbeille de :things',

@@ -15,6 +15,9 @@ return [
     'next_fem' => 'Next',
 
     'or' => 'or',
+    'other' => 'other',
+    'with' => 'with',
+    'without' => 'without',
 
     'recycle_bin' => 'Recycle bin',
     'recycle_bin_of' => 'Recycle bin of :things',
