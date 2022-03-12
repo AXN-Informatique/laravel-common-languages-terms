@@ -34,4 +34,6 @@ return [
 
     'under_maintenance' => 'en maintenance…',
 
+    'quoted' => '«&nbsp;:string&nbsp;»',
+
 ];
