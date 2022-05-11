@@ -2,7 +2,7 @@
 
 return [
     'prod' => 'Production',
-    'preprod' => 'Pré-production',
+    'preprod' => 'Préproduction',
     'test' => 'Test',
     'dev' => 'Développement',
 ];
