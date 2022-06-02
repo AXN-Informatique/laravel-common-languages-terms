@@ -6,6 +6,7 @@ return [
     'edit' => 'Modifier',
 
     'show' => 'Voir',
+    'preview' => 'Prévisualiser',
     'save' => 'Enregistrer',
 
     'enable' => 'Activer',
