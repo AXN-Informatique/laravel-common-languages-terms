@@ -11,7 +11,7 @@ return [
     '404_title' => 'Erreur 404 - Document non trouvé',
     '404_message' => 'Désolé mais le document que vous cherchez n’existe pas.',
 
-    '419_title' => 'Erreur 419 - Votre session a expirée',
+    '419_title' => 'Erreur 419 - Votre session a expiré',
     '419_message' => 'Désolé, veuillez vous identifier à nouveau.',
 
     '500_title' => 'Erreur 500 - Erreur de serveur interne',
