@@ -17,4 +17,9 @@ return [
     'only_inactives' => 'Only inactive',
     'only_inactives_fem' => 'Only inactive',
 
+    'info' => 'Information',
+    'success' => 'Success',
+    'warning' => 'Warning',
+    'error' => 'Error',
+
 ];
