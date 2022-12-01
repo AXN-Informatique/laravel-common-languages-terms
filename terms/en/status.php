@@ -16,6 +16,12 @@ return [
 
     'only_inactives' => 'Only inactive',
     'only_inactives_fem' => 'Only inactive',
+    
+    'enabled' => 'enabled',
+    'enabled_fem' => 'enabled',
+    
+    'disabled' => 'disabled',
+    'disabled_fem' => 'disabled',
 
     'info' => 'Information',
     'success' => 'Success',
