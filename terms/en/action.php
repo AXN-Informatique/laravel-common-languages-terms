@@ -24,6 +24,8 @@ return [
 
     'cancel' => 'Cancel',
 
+    'duplicate' => 'Duplicate',
+
     'close' => 'Close',
 
     'search' => 'Search',
